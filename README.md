@@ -1,8 +1,8 @@
-# 📊 Project Data Analytics
+<h1> Project Bike Sharing </h1> 
 
-Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width=50px height=30px/>
+<p>Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit  <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width=50px height=30px/></p> 
 
-## 1. 📂 Structure Files
+<h2> 1. 📂 Structure Files </h2>
 
 ```
 .
@@ -21,7 +21,7 @@ Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Stream
  ┗ 📜requirements.txt
 ```
 
-## 2. 📑 Project Work on Notebook
+<h2>2. 📑 Project Work on Notebook</h2> 
 
 1. Data Wrangling
    - Gathering Data
@@ -33,7 +33,7 @@ Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Stream
 3. Data Visualization
    - Create data visualization based on data exploratory
 
-### Run Streamlit in the local
+<h2>3. Run Streamlit in the local</h2> 
 
 #### Install library
 
