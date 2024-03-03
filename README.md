@@ -1,6 +1,6 @@
-# Project Data Analytics
+# 📊 Project Data Analytics
 
-Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png"/>
+Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width="150" height="100"/>
 
 ## 1. 📂 Structure Files
 
@@ -21,7 +21,7 @@ Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Stream
  ┗ 📜requirements.txt
 ```
 
-## 2 Project Work on Notebook
+## 2. 📑 Project Work on Notebook
 
 1. Data Wrangling
    - Gathering Data
