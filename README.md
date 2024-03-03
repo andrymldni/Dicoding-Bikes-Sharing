@@ -1,6 +1,6 @@
 # 📊 Project Data Analytics
 
-Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width="150" height="100"/>
+Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width=50px height=30px/>
 
 ## 1. 📂 Structure Files
 
