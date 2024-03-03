@@ -5,7 +5,7 @@ import streamlit as st
 import altair as alt
 
 # Load data
-df = pd.read_csv("../dashboard/hoursClean_df.csv")
+df = pd.read_csv("/dashboard/hoursClean_df.csv")
 df['date'] = pd.to_datetime(df['date'])
 
 st.set_page_config(page_title="Bike-sharing Dashboard",
