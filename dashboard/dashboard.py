@@ -105,7 +105,7 @@ max_date = df["date"].max()
 # ----- SIDEBAR -----
 with st.sidebar:
     # add logo
-    st.image("../assets/Sepeda.png")
+    st.image("assets/Sepeda.png")
 
     st.markdown("<h1 style='text-align: center;'>Date Filter</h1>", unsafe_allow_html=True)
 
