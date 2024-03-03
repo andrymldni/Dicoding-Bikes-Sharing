@@ -1,4 +1,4 @@
-<h1> Project Bike Sharing </h1> 
+<h1> Project Analisis Data | Bike Sharing Dataset </h1> 
 
 <p>Repositori yang berupa projek analis data, yang dibuat dengan menggunakan Streamlit  <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" width=50px height=30px/></p> 
 
@@ -49,4 +49,4 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run dashboard.py
 ```
-Atau bisa dengan kunjungi website ini [Proyek Analisis data](https://bikes-sharing.streamlit.app/)
+Atau bisa dengan kunjungi website ini [Proyek Analisis data](https://bikes-sharing-andrymldni.streamlit.app/)
