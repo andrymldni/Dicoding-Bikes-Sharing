@@ -117,7 +117,7 @@ with st.sidebar:
         value=[min_date, max_date]
     )
 
-st.sidebar.markdown("<h1 style='text-align: center; font-size:20px;'>Les't Connet With Me</h1>", unsafe_allow_html=True)
+st.sidebar.markdown("<h1 style='text-align: center; font-size:20px;'>Let's Connect With Me</h1>", unsafe_allow_html=True)
 
 col1, col2, col3 = st.sidebar.columns([1,1,1])
 
